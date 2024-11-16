@@ -9,6 +9,8 @@
 
 BELIVE IN GOD, devotee of mahadev
 
+And I am only 13 year old.
+
 - 🔭 I’m currently working on **learning javascript properly**
 
 - 🌱 I’m currently learning **javascript, python and css more properly**
